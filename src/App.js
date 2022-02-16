@@ -12,7 +12,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <button onClick={handleAtm}>
-          {showAtm ? "Close ATM" : "Open ATM"}
+          {showAtm ? "Close ATM" : "Start ATM"}
         </button>
         {showAtm && <ATM />}
       </header>
