@@ -45,7 +45,7 @@ const handleDeposit = (value) => {
         >-100kr</button>
 
         <button onClick={() => {
-            dispatch(handleWithdraw(100))
+            dispatch(handleWithdraw(200))
         }}>-200 kr</button>
        <button onClick={() => {
             dispatch(handleWithdraw(200))
