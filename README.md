@@ -1,5 +1,5 @@
 ### About
-This project is about developing my skills in the basic concepts in react.
+This project was about developing my skills in the basic concepts of React.
 
 ### Owner
 Martin Johnsson
